@@ -3,7 +3,7 @@ public class Presentacion {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         System.out.println("Hola mundo");
+         System.out.println("Buenos dias mundo");
 	}
 
 }
